@@ -45,7 +45,7 @@ database, and visualises BMI trends over time using a line chart.
 OIBSIP/Python-Task2-BMICalculator/
 ├── bmi_calculator.py     # Main application
 ├── README.md             # This file
-└── screenshots/          # App screenshots (add your own)
+└── screenshots/          # App screenshots 
 ```
 
 ## 🧪 How It Works
